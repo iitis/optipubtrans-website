@@ -59,5 +59,5 @@ Celem publikacji naukowych jest zapoznanie środowiska naukowego z wynikami pion
 
 
 Projekt dofinansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla
-Społeczeństwa II"   + logo ministerstwa i N2S (w załączniku)
+Społeczeństwa II"
 
