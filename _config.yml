@@ -46,3 +46,4 @@ github_username:  lpawela
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+images: '/assets/images'
