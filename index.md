@@ -1,8 +1,8 @@
 ---
 bg: "rails.jpg"
 layout: default
-title: "Optimal transport"
-summary: "main page"
+title: "Optymalizacja transportu"
+summary: "Strona główna"
 ---
 
 # Zaawansowana optymalizacja w służbie niezawodnego i efektywnego transportu publicznego 

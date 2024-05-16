@@ -2,8 +2,8 @@
 bg: "rails.jpg"
 layout: default
 permalink: /team/
-title: "Optimal transport"
-summary: "main page"
+title: "Zespół"
+summary: "Ludzie w projkecie"
 ---
 
 # Project team
