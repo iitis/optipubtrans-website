@@ -4,6 +4,7 @@ layout: default
 permalink: /team/
 title: "Zespół"
 summary: "Ludzie w projkecie"
+active: true
 ---
 
 # Project team
