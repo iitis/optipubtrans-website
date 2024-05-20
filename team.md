@@ -7,8 +7,8 @@ summary: "Ludzie w projkecie"
 active: true
 ---
 
-# Project team
-- Krzysztof Domino - leader
-- Bartłomiej Gardas
-- Łukasz Pawela
-- Zbigniew Puchała
+# Zespół projektowy
+- dr hab. Krzysztof Domino - kierownik
+- dr hab. Bartłomiej Gardas
+- dr hab. inż. Łukasz Pawela
+- prof. Zbigniew Puchała
