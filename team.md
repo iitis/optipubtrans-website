@@ -1,5 +1,5 @@
 ---
-bg: "rails2.jpg"
+bg: "station.jpg"
 layout: default
 permalink: /team/
 title: "Zespół"
