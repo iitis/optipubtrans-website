@@ -3,7 +3,7 @@ bg: "rails2.jpg"
 layout: default
 permalink: /team/
 title: "Zespół"
-summary: "Ludzie w projkecie"
+summary: "Ludzie w projekcie"
 active: true
 ---
 
