@@ -11,9 +11,9 @@ summary: "Strona główna"
 Projekt finansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla Społeczeństwa II"
 
 ## Cel projektu
+Celem projektu jest demonstracyjne zastosowanie technologii optymalizacyjnej (klasyczno-kwantowej) do rozwiązywania rzeczywistych problemów optymalizacyjnych, wspierając ekologiczny transport publiczny oraz uwzględniając perspektywę lokalnej społeczności.
 
-
-Celem projektu jest opracowanie algorytmów optymalizacyjnych (oraz sposobów ich potencjalnego wdrożenia) służących poprawie jakości funkcjonowania transportu publicznego. Docelowo opracowane w ramach projektu metody umożliwią planowanie niezawodnego i optymalnego transportu publicznego dzięki zastosowaniu nowoczesnych technologii, a w szczególności osiągnięcie i utrzymanie wysokiego poziomu satysfakcji pasażerów pomimo występowania i propagacji zaburzeń. W wyniku projektu powstaną: demonstracyjne algorytmy (tzw. proof of concept), oprogramowanie pozwalające na rozwiązywanie problemów zaburzeń w transporcie publicznym oraz publikacje naukowe dotyczące wyżej wymienionych zagadnień.
+Cel projektu zostanie zrealizowany poprzez opracowanie algorytmów optymalizacyjnych (oraz sposobów ich potencjalnego wdrożenia) służących poprawie jakości funkcjonowania transportu publicznego. Docelowo opracowane w ramach projektu metody umożliwią planowanie niezawodnego i optymalnego transportu publicznego dzięki zastosowaniu nowoczesnych technologii, a w szczególności osiągnięcie i utrzymanie wysokiego poziomu satysfakcji pasażerów pomimo występowania i propagacji zaburzeń. W wyniku projektu powstaną: demonstracyjne algorytmy (tzw. proof of concept), oprogramowanie pozwalające na rozwiązywanie problemów zaburzeń w transporcie publicznym oraz publikacje naukowe dotyczące wyżej wymienionych zagadnień.
 
 ## Zespół projektowy
 
