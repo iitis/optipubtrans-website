@@ -1,5 +1,5 @@
 ---
-bg: "rails.jpg"
+bg: "rails2.jpg"
 layout: default
 title: "Optymalizacja transportu"
 summary: "Strona główna"
