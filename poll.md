@@ -14,7 +14,7 @@ ich optymalizacji. W szczególności skupimy się na transporcie
 kolejowym na terenie województwa śląskiego, który zważywszy na
 prowadzone inwestycje infrastrukturalne, jak również rozwijanie floty
 pojazdów przez przewoźników kolejowych, może się w najbliższych
-latach znaczącą zmienić.
+latach znacząco zmienić.
 
 Dla nas ważny jest punkt widzenia użytkowników transportu i ich spostrzeżenia z
 codziennych podróży. W związku z tym serdecznie zapraszamy do udziału w
@@ -22,8 +22,8 @@ otwartych konsultacjach. Spotkania online odbędą się w dwóch terminach:
 - [25.11.2024 r. (poniedziałek) o godzinie 11:00](https://akademia.iitis.pl/event/9/),
 - [27.11.2024 r. (środa) o godzinie 17:00](https://akademia.iitis.pl/event/10/).
 
-Zapisy realizowane są poprzez poniższy formularz. Na wskazany adres poczty
-elektronicznej zostanie wysłane link do spotkania online.
+Zapisy realizowane są poprzez powyższe formularze. Na wskazany adres poczty
+elektronicznej zostanie wysłany link do spotkania online.
 
 
 Funkcjonowanie transportu publicznego powinno być przede wszystkim adresowane
