@@ -32,4 +32,4 @@ godzinie 11:00 oraz 27.11.2024 r. (środa) o godzinie 17:00.  Zapisy
 realizowane są poprzez poniższy formularz. Na wskazany adres poczty
 elektronicznej zostanie wysłane link do spotkania online.
 
-<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSf6OiizkMrxQqWHth0m2pBvfiiKsh50emnhhhF9qW89DlBDNg/viewform?embedded=true [1] width="640" height="1423" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf6OiizkMrxQqWHth0m2pBvfiiKsh50emnhhhF9qW89DlBDNg/viewform?embedded=true" width="640" height="1423" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
