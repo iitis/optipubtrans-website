@@ -7,23 +7,17 @@ summary: "Ankieta pasażerów"
 active: true
 ---
 
-W ramach projektu zorganizowane zostaną otwarte konsultacje społeczne.
-Mając na uwadze obszar realizowanego projektu podczas spotkań będą
-poruszane tematy zaburzeń w transporcie publicznym i możliwe sposoby
-ich optymalizacji. W szczególności skupimy się na transporcie
-kolejowym na terenie województwa śląskiego, który zważywszy na
-prowadzone inwestycje infrastrukturalne, jak również rozwijanie floty
-pojazdów przez przewoźników kolejowych, może się w najbliższych
-latach znacząco zmienić.
-
-Dla nas ważny jest punkt widzenia użytkowników transportu i ich spostrzeżenia z
-codziennych podróży. W związku z tym serdecznie zapraszamy do udziału w
-otwartych konsultacjach. Spotkania online odbędą się w dwóch terminach:
-- [25.11.2024 r. (poniedziałek) o godzinie 11:00](https://akademia.iitis.pl/event/9/),
-- [27.11.2024 r. (środa) o godzinie 17:00](https://akademia.iitis.pl/event/10/).
-
-Zapisy realizowane są poprzez powyższe formularze. Na wskazany adres poczty
-elektronicznej zostanie wysłany link do spotkania online.
+W ramach projektu w dniach 25 i 27 listopada 2024 r. zorganizowano otwarte
+konsultacje społeczne. Mając na uwadze zakres realizowanego przedsięwzięcia,
+podczas spotkań poruszono kwestie związane z zaburzeniami w transporcie
+publicznym oraz możliwymi sposobami ich optymalizacji. Szczególną uwagę
+poświęcono transportowi kolejowemu na terenie województwa śląskiego. W
+kontekście prowadzonych inwestycji infrastrukturalnych oraz rozwoju floty
+pojazdów przez przewoźników kolejowych, sektor ten może w najbliższych latach
+ulec istotnym zmianom. Wyniki konsultacji będą stanowić cenny wkład w
+opracowanie algorytmów optymalizacyjnych, mających na celu usprawnienie
+funkcjonowania transportu publicznego i poprawę jego dostępności dla lokalnej
+społeczności.
 
 
 Funkcjonowanie transportu publicznego powinno być przede wszystkim adresowane
