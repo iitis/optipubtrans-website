@@ -27,9 +27,9 @@ Cel projektu zostanie zrealizowany poprzez opracowanie algorytmów optymalizacyj
 
 ## Współpraca z partnerem
 
-W ramach projektu powstają nowe kanały współpracy z partnerem, spółką Koleje Śląskie
-<img src="{{ site.images | relative_url }}/KS-logo.png" alt="Koleje Śląskie logo" width="180" style="vertical-align:middle; margin-left:10px;" />,
-będącym regionalnym operatorem kolejowym na obszarze województwa śląskiego, który w 2024 roku przewiózł blisko 22 milionów pasażerów.
+W ramach projektu powstają nowe kanały współpracy z partnerem, spółką 
+<img src="{{ site.images | relative_url }}/KS-logo.png" alt="Koleje Śląskie logo" width="180" style="vertical-align:middle; margin-left:10px;" />
+będącą regionalnym operatorem kolejowym na obszarze województwa śląskiego, który w 2024 roku przewiózł blisko 22 milionów pasażerów.
 
 Ze spółką Koleje Śląskie realizujemy wielokanałową współpracę poprzez:
 
