@@ -58,7 +58,7 @@ Celem publikacji naukowych jest zapoznanie środowiska naukowego z wynikami pion
 
 ## Finansowanie
 
-Projekt o nazwie „Zaawansowana optymalizacja w służbie niezawodnego i efektywnego transport publicznego" dofinansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla Społeczeństwa II"
+Projekt o nazwie „Zaawansowana optymalizacja w służbie niezawodnego i efektywnego transportu publicznego" dofinansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla Społeczeństwa II"
 Numer umowy: NdS-II/SP/0336/2024/01
 
 <ul>
