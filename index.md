@@ -60,10 +60,13 @@ Celem publikacji naukowych jest zapoznanie środowiska naukowego z wynikami pion
 
 Projekt dofinansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla Społeczeństwa II"
 Numer umowy: NdS-II/SP/0336/2024/01
-Dofinansowanie: 1 000 000 PLN
-Całkowita wartość: 1 000 000 PLN
-Data podpisania umowy: kwiecień 2024
 
-<img src="{{ site.images | relative_url }}/znaki_strona_www.png" alt="logonds" width="300" />
-<img src="{{ site.images | relative_url }}/logo1.png" alt="logonds" width="300" />
-<img src="{{ site.images | relative_url }}/logo2.png" alt="logonds" width="300" />
+<ul>
+  <li>Dofinansowanie: 1 000 000 PLN</li>
+  <li>Całkowita wartość: 1 000 000 PLN</li>
+  <li>Data podpisania umowy: kwiecień 2024</li>
+</ul>
+
+<img src="{{ site.images | relative_url }}/znaki_strona_www.png" alt="logonds" width="250" />
+<img src="{{ site.images | relative_url }}/logo1.png" alt="logonds" width="250" />
+<img src="{{ site.images | relative_url }}/logo2.png" alt="logonds" width="250" />
