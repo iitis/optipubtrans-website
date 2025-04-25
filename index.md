@@ -52,8 +52,9 @@ Celem publikacji naukowych jest zapoznanie środowiska naukowego z wynikami pion
 
 ## Popularyzacja projektu
 
-1. Publikacje w prasie branżowej.
-2. Prezentacje wyników z wykorzystaniem nowoczesnych mediów takich jak Twitter, Instagram, YouTube. 
+1. Publikacja w prasie codziennej.
+2. Publikacje w prasie branżowej.
+3. Prezentacje wyników z wykorzystaniem nowoczesnych mediów takich jak X. 
 
 ## Finansowanie
 
