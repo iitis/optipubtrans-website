@@ -27,9 +27,9 @@ Cel projektu zostanie zrealizowany poprzez opracowanie algorytmów optymalizacyj
 
 ## Współpraca z partnerem
 
-W ramach projektu planuje się utworzenie nowych kanałów współpracy z partnerem będącym operatorem transportu publicznego na obszar województwa śląskiego.
+W ramach projektu powstają nowe kanały współpracy z partnerem, spółką Koleje Śląskie, będącym operatorem transportu publicznego na obszar województwa śląskiego.
 
-Planujemy wielokanałową współpracę  poprzez:
+Ze spółką Koleje Śląskie realizujemy wielokanałową współpracę poprzez:
 
 1. Transfer wiedzy od partnera do wnioskodawcy. W szczególności, identyfikację problemów powodujących zaburzenia w odniesieniu do specyfiki pracy partnera, oraz wypracowanego podejścia partnera do problemu.
 2. Transfer wiedzy dwukierunkowy. Wspólna praca nad problemami związanymi z zaburzeniami w transporcie publicznym.
