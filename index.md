@@ -67,7 +67,6 @@ Numer umowy: NdS-II/SP/0336/2024/01
   <li>Data podpisania umowy: kwiecień 2024</li>
 </ul>
 
-<img src="{{ site.images | relative_url }}/znaki_strona_www.png" alt="logonds" width="210" />
-&nbsp
+<img src="{{ site.images | relative_url }}/znaki_strona_www.png" alt="logonds" width="210" /> &nbsp;&nbsp;
 <img src="{{ site.images | relative_url }}/logo1.png" alt="logonds" width="230" />
 <img src="{{ site.images | relative_url }}/logo2.png" alt="logonds" width="200" />
