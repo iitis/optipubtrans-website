@@ -61,6 +61,6 @@ Celem publikacji naukowych jest zapoznanie środowiska naukowego z wynikami pion
 Projekt dofinansowany ze środków budżetu państwa, przyznanych przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla
 Społeczeństwa II"
 
-![flaga_godlo]({{ site.images | relative_url }}/znaki_strona_www.png)
+<img src="{{ site.images | relative_url }}/znaki_strona_www.png" alt="logonds" width="150" />
 <img src="{{ site.images | relative_url }}/logo1.png" alt="logonds" width="150" />
 ![logonds]({{ site.images | relative_url }}/logo2.png)
