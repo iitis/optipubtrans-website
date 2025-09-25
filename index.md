@@ -37,6 +37,10 @@ Ze spółką Koleje Śląskie realizujemy wielokanałową współpracę poprzez:
 2. Transfer wiedzy dwukierunkowy. Wspólna praca nad problemami związanymi z zaburzeniami w transporcie publicznym.
 3. Transfer wiedzy od wnioskodawcy do partnera, przeprowadzenie prezentacji, seminariów, prezentacja oprogramowania rozwiązującego realne problemy.
 
+## Współpraca międzynarodowa
+
+1. <a href="https://umbc.edu/stories/quantum-on-track-for-train-scheduling/">Owocna współpraca z UMBC, USA w ramach w ramach umiędzynarodowienia projektu</a>
+
 
 ## Konsultacje/warsztaty online z udziałem społeczności pasażerów
 
