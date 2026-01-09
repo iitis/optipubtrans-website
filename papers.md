@@ -11,6 +11,11 @@ active: true
 
 1. Krzysztof Domino, Emery Doucet, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, *On the Baltimore Light RailLink into the quantum future*, Scientific Reports 15, 29576, 2025.
 
+# Preprinty
+
+1. Ewa Kędziera, Wojciech Gamon, Mátyás Koniorczyk, Zakaria Mzaouali, Andrea Galadíková, Krzysztof Domino, *Quantum and classical algorithms for daily railway rolling stock circulation plans*, arXiv:2512.19340.
+2. Emery Doucet, Zakaria Mzaouali, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, Krzysztof Domino, *Thermodynamic significance of QUBO encoding on quantum annealers*, arXiv:2601.04402.
+
 # W mediach
 
 1. <a href="https://umbc.edu/stories/quantum-on-track-for-train-scheduling/">Owocna współpraca z UMBC, USA w ramach w ramach umiędzynarodowienia projektu</a>
