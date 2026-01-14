@@ -11,21 +11,13 @@ Zapraszamy pasażerów korzystających z lokalnego transportu publicznego do
 działu w konsultacjach społecznych poświęconych funkcjonowaniu i rozwojowi
 publicznego transportu zbiorowego.
 
-Warsztaty organizowane są w ramach projektu „Zaawansowana optymalizacja w
-służbie niezawodnego i efektywnego transportu publicznego”, finansowanego
-przez Ministra Edukacji i Nauki w ramach Programu „Nauka dla Społeczeństwa II”.
-Projekt realizowany jest w Instytucie Informatyki Teoretycznej i Stosowanej
-Polskiej Akademii Nauk w Gliwicach. Celem projektu jest rozwój i demonstracyjne
-zastosowanie zaawansowanej algorytmicznej technologii optymalizacyjnej, między
-innymi z zastosowaniem komputerów kwantowych, do rozwiązywania rzeczywistych
-problemów optymalizacyjnych, wspierając ekologiczny transport publiczny
-oraz uwzględniając perspektywę lokalnej społeczności.
-Udział w warsztatach to okazja do:
+Udział w warsztatach/konsultacjach to okazja do:
 - podzielenia się swoimi doświadczeniami jako użytkownika transportu,
 - zgłoszenia opinii i potrzeb dotyczących transportu publicznego,
 - współtworzenia rekomendacji dla bardziej niezawodnego i efektywnego
   systemu transportowego.
-W związku z tym serdecznie zapraszamy do udziału w otwartych konsultacjach
+
+W związku z tym serdecznie zapraszamy do udziału w otwartych warsztatach/konsultacjach
 Spotkanie online [wymaga rejestracji i odbędzie się 26.01.2026 r. (poniedziałek) o godzinie 16:30](https://akademia.iitis.pl/event/25/).
 
 
