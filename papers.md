@@ -13,7 +13,7 @@ active: true
 
 # Preprinty
 
-1. Ewa Kędziera, Wojciech Gamon, Mátyás Koniorczyk, Zakaria Mzaouali, Andrea Galadíková, Krzysztof Domino, *Quantum and classical algorithms for daily railway rolling stock circulation plans*, arXiv:2512.19340.
+1. Ewa Kędziera, Wojciech Gamon, Mátyás Koniorczyk, Zakaria Mzaouali, Andrea Galadíková, Krzysztof Domino, *EMU circulation planning for Silesian Railways: case study and a quantum approach*, arXiv:2512.19340.
 2. Emery Doucet, Zakaria Mzaouali, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, Krzysztof Domino, *Thermodynamic significance of QUBO encoding on quantum annealers*, arXiv:2601.04402.
 
 # W mediach
