@@ -41,7 +41,7 @@ Ze spółką Koleje Śląskie realizujemy wielokanałową współpracę poprzez:
 
 1. <a href="https://umbc.edu/stories/quantum-on-track-for-train-scheduling/">Owocna współpraca z UMBC, USA w ramach w ramach umiędzynarodowienia projektu</a>
 
-2. W dniu 19.01.2026 w jednostce realizującej projekt (IITiS PAN) miała miejsce wizyta prof. Petera Mártona wice-dziekana ds. współpracy międzynarodowej na Wydziale Zarządzania i Informatyki (FRI) Uniwersytetu Żylińskiego (UNIZA), specjalizującego się w matematyce stosowanej, badaniach operacyjnych, logistyce, transporcie i analizie danych, aktywnie publikującego i współpracującego w obszarze nauk technicznych i informatycznych <img src="{{ site.images | relative_url }}/dest.jpg" alt="Koleje Śląskie logo" width="180" style="vertical-align:middle; margin-left:10px;" />
+2. W dniu 19.01.2026 w jednostce realizującej projekt (IITiS PAN) miała miejsce wizyta prof. Petera Mártona wice-dziekana ds. współpracy międzynarodowej na Wydziale Zarządzania i Informatyki (FRI) Uniwersytetu Żylińskiego (UNIZA), specjalizującego się w matematyce stosowanej, badaniach operacyjnych, logistyce, transporcie i analizie danych, aktywnie publikującego i współpracującego w obszarze nauk technicznych i informatycznych <img src="{{ site.images | relative_url }}/dest.jpg" alt="Zdjęcie Marton" width="180" style="vertical-align:middle; margin-left:10px;" />
 
 ## Konsultacje/warsztaty online z udziałem społeczności pasażerów
 
