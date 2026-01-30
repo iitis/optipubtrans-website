@@ -47,7 +47,9 @@ Ze spółką Koleje Śląskie realizujemy wielokanałową współpracę poprzez:
 
 Realizujemy konsultacje online dedykowanych dla społeczności pasażerów korzystających z transportu publicznego w województwie śląskim. W ramach konsultacji zostaną przedstawione założenia projektu, jak również zostaną pozyskane informacje od pasażerów, które będą użyte w pracach nad algorytmami kładącymi szczególny naciski na satysfakcję pasażerów. Podczas konsultacji zostaną również zaprezentowane częściowe oraz ostateczne wyniki badań w projekcie.
 
-Pierwsze konsultacje/warsztaty będą miały miejsce w 2024 roku, a ich celem będzie pozyskanie wiedzy od społeczności pasażerów w kwestii ich oczekiwań i doświadczenia przy korzystaniu z transportu publicznego.
+Pierwsze konsultacje/warsztaty odbyły się w 2024 roku i miały na celu pozyskanie wiedzy od społeczności pasażerów na temat ich oczekiwań oraz doświadczeń związanych z korzystaniem z transportu publicznego.
+
+Kolejne konsultacje/warsztaty odbyły się w styczniu 2026 roku i były poświęcone przedstawieniu dotychczasowych wyników projektu.
 
 ## Publikacje naukowe
 
