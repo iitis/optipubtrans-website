@@ -11,15 +11,6 @@ Zapraszamy pasażerów korzystających z lokalnego transportu publicznego do
 działu w konsultacjach społecznych poświęconych funkcjonowaniu i rozwojowi
 publicznego transportu zbiorowego.
 
-Udział w warsztatach/konsultacjach to okazja do:
-- podzielenia się swoimi doświadczeniami jako użytkownika transportu,
-- zgłoszenia opinii i potrzeb dotyczących transportu publicznego,
-- współtworzenia rekomendacji dla bardziej niezawodnego i efektywnego
-  systemu transportowego.
-
-W związku z tym serdecznie zapraszamy do udziału w otwartych warsztatach/konsultacjach
-Spotkanie online [wymaga rejestracji i odbędzie się 26.01.2026 r. (poniedziałek) o godzinie 16:30](https://akademia.iitis.pl/event/25/).
-
 
 W ramach projektu w dniach 25 i 27 listopada 2024 r. zorganizowano otwarte
 konsultacje społeczne. Mając na uwadze zakres realizowanego przedsięwzięcia,
@@ -32,6 +23,8 @@ ulec istotnym zmianom. Wyniki konsultacji będą stanowić cenny wkład w
 opracowanie algorytmów optymalizacyjnych, mających na celu usprawnienie
 funkcjonowania transportu publicznego i poprawę jego dostępności dla lokalnej
 społeczności.
+
+W dniu 26.01.2026 r. (poniedziałek) o godzinie 16:30 odbyły się trzecie konsultacje online ze społecznością pasażerów. Celem spotkania było omówienie problematyki zaburzeń w realizacji usług transportu publicznego na terenie województwa śląskiego, ze szczególnym uwzględnieniem transportu kolejowego, a także popularyzacja nowoczesnych metod rozwiązywania problemów transportowych, w tym metod kwantowych. Ponadto konsultacje miały na celu kształtowanie pozytywnego społecznego odbioru transportu publicznego oraz środowiska naukowego poprzez prezentację wyników badań i praktycznych zastosowań realizowanego projektu. W trakcie konsultacji wskazano, że komputery kwantowe mogą być wykorzystywane do rozwiązywania niewielkich problemów harmonogramowania opartych na rzeczywistych danych i strukturze sieci. Obecny stan technologii kwantowej nie przewyższa jeszcze klasycznych metod w przypadku większych problemów (rozleglejsze sieci, większa liczba pociągów), a same obliczenia pozostają kosztowne. Niemniej jednak wykorzystanie rozwiązań kwantowych wyznacza kierunek rozwoju tej technologii i wskazuje jej potencjalne zastosowania w transporcie publicznym, w tym kolejowym. Jako pierwszy krok podkreśla się znaczenie podejścia hybrydowego, w którym niewielka, lecz szczególnie złożona (lub podatna na zaburzenia stochastyczne) część problemu rozwiązywana jest na urządzeniu kwantowym, natomiast pozostała część na komputerze klasycznym.
 
 
 Funkcjonowanie transportu publicznego powinno być przede wszystkim adresowane
