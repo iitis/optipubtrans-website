@@ -14,7 +14,7 @@ active: true
 
 # Preprinty
 
-1. Ewa Kędziera, Wojciech Gamon, Mátyás Koniorczyk, Zakaria Mzaouali, Andrea Galadíková, Krzysztof Domino, *EMU circulation planning for Silesian Railways: case study and a quantum approach*, arXiv:2512.19340.
+1. Ewa Kędziera, Wojciech Gamon, Mátyás Koniorczyk, Zakaria Mzaouali, Andrea Galadíková, Krzysztof Domino, *EMU circulation planning for Silesian Railways: case study and a quantum approach*, [arXiv:2512.19340](https://doi.org/10.48550/arXiv.2512.19340), 2026 - w recenzji w Journal of Rail Transport Planning \& Management.
 
 
 # W mediach
