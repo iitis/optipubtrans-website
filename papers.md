@@ -10,7 +10,7 @@ active: true
 # Opublikowane
 
 1. Krzysztof Domino, Emery Doucet, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, *On the Baltimore Light RailLink into the quantum future*, [Scientific Reports 15, 29576](https://www.nature.com/articles/s41598-025-15545-0), 2025.
-2. Emery Doucet, Zakaria Mzaouali, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, Krzysztof Domino, *Thermodynamic significance of QUBO encoding on quantum annealers*, [New Journal of Physics](https://doi.org/10.1088/1367-2630/ae6e98), 2026
+2. Emery Doucet, Zakaria Mzaouali, Reece Robertson, Bartłomiej Gardas, Sebastian Deffner, Krzysztof Domino, *Thermodynamic significance of QUBO encoding on quantum annealers*, [New Journal of Physics 28 054512](https://doi.org/10.1088/1367-2630/ae6e98), 2026
 
 # Preprinty
 
